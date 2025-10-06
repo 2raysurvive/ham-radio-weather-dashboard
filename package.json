@@ -1,0 +1,35 @@
+{
+  "name": "ham-radio-weather-dashboard",
+  "version": "1.0.0",
+  "description": "A comprehensive web-based dashboard for amateur radio operators and weather enthusiasts",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "serve": "npx serve",
+    "dev": "npx live-server --port=8000",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": [
+    "ham-radio",
+    "weather",
+    "dashboard",
+    "amateur-radio",
+    "propagation",
+    "APRS",
+    "PSK"
+  ],
+  "author": "Your Name <your.email@example.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/ham-radio-weather-dashboard.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/ham-radio-weather-dashboard/issues"
+  },
+  "homepage": "https://github.com/yourusername/ham-radio-weather-dashboard#readme",
+  "devDependencies": {
+    "live-server": "^1.2.2",
+    "serve": "^14.2.1"
+  }
+}

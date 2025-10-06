@@ -1,0 +1,16 @@
+ham-radio-weather-dashboard/
+├── README.md
+├── index.html
+├── styles/
+│   └── main.css
+├── scripts/
+│   └── app.js
+├── assets/
+│   ├── images/
+│   │   └── favicon.ico
+│   └── docs/
+├── config/
+│   └── settings.js
+├── .gitignore
+├── LICENSE
+└── package.json
